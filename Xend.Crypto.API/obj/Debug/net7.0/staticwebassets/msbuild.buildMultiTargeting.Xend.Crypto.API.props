@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Xend.Crypto.API.props" />
+</Project>

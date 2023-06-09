@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{4EFBB91F-68B6-4D4C-81D0-EC7D89A5E334}|http">
+  <MonoDevelop.Ide.ItemProperties.Xend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Downloads/Xend/Xend/Controllers/TransactionsController.cs" relfile="Xend/Controllers/TransactionsController.cs" line="57" column="1" />
+      <Breakpoint file="/Users/mac/Downloads/Xend/Xend/Controllers/TransactionsController.cs" relfile="Xend/Controllers/TransactionsController.cs" line="53" column="1" />
+      <Breakpoint file="/Users/mac/Downloads/Xend/Xend/Controllers/TransactionsController.cs" relfile="Xend/Controllers/TransactionsController.cs" line="80" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xend/Program.cs">
+    <Files>
+      <File FileName="Xend/appsettings.json" Line="15" Column="4" />
+      <File FileName="Xend/Program.cs" Line="124" Column="1" />
+      <File FileName="Xend/MessageBrokers/IMessageBroker.cs" Line="6" Column="14" />
+      <File FileName="Xend/DependencyInjection.cs" Line="69" Column="15" />
+      <File FileName="Xend/Xend.csproj" />
+      <File FileName="Xend/MessageHandlers/UpdateTransactionsCommandHandler.cs" Line="13" Column="18" />
+      <File FileName="Xend/Models/UpdateTransactionsCommand.cs" Line="10" Column="1" />
+      <File FileName="Xend/Models/TransactionReceivedEvent.cs" Line="6" Column="51" />
+      <File FileName="Xend/Models/Transaction.cs" Line="7" Column="18" />
+      <File FileName="Xend/Repositories/ITransactionRepository.cs" Line="8" Column="14" />
+      <File FileName="Xend/Services/ICryptoApiClient.cs" Line="8" Column="40" />
+      <File FileName="Xend/Services/EventBus.cs" Line="8" Column="2" />
+      <File FileName="Xend/Models/Client.cs" Line="6" Column="5" />
+      <File FileName="Xend/Services/IEventBus.cs" Line="1" Column="1" />
+      <File FileName="Xend/EventHandlers/IEventHandler.cs" Line="7" Column="6" />
+      <File FileName="Xend/EventHandlers/IEvent.cs" Line="9" Column="46" />
+      <File FileName="Xend/Services/InMemoryEventBus.cs" Line="6" Column="34" />
+      <File FileName="Xend/EventHandlers/TransactionReceivedEventHandler.cs" Line="30" Column="42" />
+      <File FileName="Xend/Controllers/TransactionsController.cs" Line="58" Column="30" />
+      <File FileName="Xend/Services/CryptoApiClient.cs" Line="31" Column="11" />
+      <File FileName="Xend/Utilities/DisableCertificateValidation.cs" />
+      <File FileName="Xend/Data/ApplicationDbContext.cs" Line="41" Column="1" />
+      <File FileName="Xend/MessageBrokers/RabbitMQMessageBroker.cs" Line="1" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.203/Microsoft.Common.CurrentVersion.targets" Line="4685" Column="5" />
+      <File FileName="Xend/Migrations/20230604174910_UpdateTransactions.cs" />
+      <File FileName="Xend.Crypto.API/Controllers/TransactionsController.cs" Line="25" Column="141" />
+      <File FileName="Xend.Crypto.API/Models/Transaction.cs" Line="12" Column="1" />
+      <File FileName="Xend/Repositories/IClientRepository.cs" Line="9" Column="64" />
+      <File FileName="Xend/Repositories/ClientRepository.cs" Line="27" Column="10" />
+      <File FileName="Xend/Repositories/TransactionRepository.cs" Line="29" Column="14" />
+      <File FileName="Xend.Crypto.API/appsettings.json" Line="7" Column="5" />
+      <File FileName="Xend.Crypto.API/Program.cs" Line="8" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xend" expanded="True">
+            <Node name="Xend" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="EventHandlers" expanded="True" />
+              <Node name="MessageBrokers" expanded="True" />
+              <Node name="MessageHandlers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Xend.Crypto.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Xend.Crypto.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
