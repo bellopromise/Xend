@@ -37,6 +37,20 @@ $ dotnet build
 $ dotnet run
 ```
 
+### API Request
+
+- Url: http://localhost:4000/api/transactions/update
+
+- Request Body:
+
+```
+{
+  "ClientId": "5",
+  "WalletAddress": "0xABCDEF",
+  "CurrencyType": "bitcoin"
+}
+```
+
 ## Support
 For more questions and clarifications, you can reach out to me here `bellopromise5322@gmail.com`
 
