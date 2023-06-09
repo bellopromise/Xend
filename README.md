@@ -40,6 +40,7 @@ $ dotnet run
 ### API Request
 
 - Url: http://localhost:4000/api/transactions/update
+- METHOD: POST
 
 - Request Body:
 
